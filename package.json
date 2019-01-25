@@ -1,0 +1,27 @@
+{
+  "name": "institucionesfinancieraschile",
+  "version": "1.0.0",
+  "description": "Chilean financial institutions databases",
+  "main": "null",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctala/InstitucionesFinancierasChile.git"
+  },
+  "keywords": [
+    "chile",
+    "financial",
+    "institutions",
+    "database",
+    "instituciones",
+    "financieras"
+  ],
+  "author": "Cristian Tala S.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ctala/InstitucionesFinancierasChile/issues"
+  },
+  "homepage": "https://github.com/ctala/InstitucionesFinancierasChile#readme"
+}
